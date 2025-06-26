@@ -11,11 +11,11 @@ A step-by-step guide to resolving the missing Chrome administrative template err
 When opening Group Policy Editor (`gpedit.msc`), the following error is displayed:
 
 
+```
 
-An appropriate resource file could not be found for file
-C:\Windows\PolicyDefinitions\chrome.admx (error = 2):
-The system cannot find the file specified.
+An appropriate resource file could not be found for file. C:\Windows\PolicyDefinitions\chrome.admx (error = 2): The system cannot find the file specified.
 
+```
 
 ### Root Cause
 
